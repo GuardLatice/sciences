@@ -1,29 +1,19 @@
-# Publication and reproducibility
+# Publication policy
 
-## Before adding a record
+## Current scope
 
-Confirm authorship, redistribution rights, confidential material, publication approval and applicable licenses. Do not upload a private manuscript merely because its title is mentioned elsewhere.
+This repository currently contains publication guidance only. Do not upload manuscripts, PDFs, TeX files, research code, datasets or archives, including on branches or in issue attachments.
 
-## Minimum record
+Adding a catalog entry or publication asset requires a separate decision by the owner, with authorship, confidentiality, redistribution rights and licensing checked beforehand. Mentioning a work does not authorize its publication.
 
-Identify the exact work, authors, version, publication status, contribution, assumptions, limits and references. For executable work, record the source commit, configuration, dependencies, environment, commands, expected result and known failure cases. State when no executable artifact is provided and why.
+## Publication records
 
-Keep three dimensions separate:
+An approved record identifies the title, authors, version, public reference, contribution, assumptions and limits. Record publication status, implementation maturity and evaluation separately; support each status with the corresponding evidence.
 
-| Dimension | Examples, not interchangeable |
-|---|---|
-| Publication | technical report, preprint, submitted, accepted, published |
-| Implementation | model, experimental reference, release candidate, maintained release |
-| Evaluation | author-run checks, external artifact evaluation, independent reproduction |
-
-A status requires supporting evidence. Do not invent an acceptance, DOI, author, audit, certification or independent review.
+A claim about an executable result needs the version, environment, method and expected outcome used to obtain it. This requirement does not authorize uploading the underlying implementation here.
 
 ## Versions and corrections
 
-Reference a fixed source commit or release. Preserve the version used to obtain a published result. Link later corrections rather than silently replacing earlier evidence. Add CITATION.cff only when the actual authorship and citation target are known.
+Refer to fixed versions. Keep earlier results traceable and link later corrections rather than replacing the evidence silently. Citations must identify the actual authors and publication.
 
-Separate mathematical correctness, implementation correctness, benchmark results and operational assumptions. Performance results must measure the implementation being claimed, not an unrelated substitute.
-
-## Review boundary
-
-The organization owner approves publication. Technical checks cannot establish ownership or validate an entire mathematical proof. Independent evaluation must be identified as independent only when it actually occurred.
+Mathematical results, implementation checks, measurements and independent evaluations answer different questions. State what was examined and who performed the evaluation.

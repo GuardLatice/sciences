@@ -1,18 +1,23 @@
-# Proposed publication record
+# Publication record guide
 
-Complete the fields with evidence; do not publish placeholders as results.
+For use after publication approval. This form is not an invitation to upload a manuscript or implementation.
 
-- Identifier and exact title:
-- Authors and affiliations, as approved:
-- Version and publication status:
-- Public paper location and citation, when available:
-- Main question and contribution:
-- Assumptions and threat model:
-- Explicit limitations and non-claims:
-- Artifact repository, immutable commit or version:
-- Artifact license and redistribution approval:
-- Environment, commands and expected results:
-- Checks performed and checks not performed:
-- Independent evaluation evidence, if any:
-- Corrections and superseded versions:
-- Maintainer and publication approval:
+## Work
+
+Title, identifier, authors, affiliations, version, publication status and approved public reference.
+
+## Contribution
+
+The question addressed, the result, its assumptions and its limitations.
+
+## Supporting material
+
+For material already approved for public release: the exact version, applicable license and reference. Describe the environment and method for a reproducible result. Keep confidential files outside this repository.
+
+## Evaluation and corrections
+
+Checks performed, remaining questions, any independent evaluation and later corrections.
+
+## Responsibility
+
+Maintainer and publication approval.
