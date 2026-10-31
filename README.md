@@ -6,7 +6,7 @@ Research in cryptography, access governance, secure computation and distributed 
 
 ## Explore the work
 
-Use the scientific portal to learn about the research program. For questions or a possible collaboration, [start a discussion](https://github.com/GuardLatice/.github/discussions) with a topic you can share publicly.
+Use the scientific portal to learn about the research program. For questions or a possible collaboration, [start a research discussion](https://github.com/GuardLatice/.github/discussions/new?category=research) with a topic you can share publicly.
 
 The [GitHub catalog](catalog.json) has no publication entries yet. This repository currently provides publication guidance; it does not distribute manuscripts, research code or publication files.
 
@@ -21,7 +21,7 @@ Publication status, implementation maturity and independent evaluation are recor
 
 GuardLatice Sciences réunit les travaux de recherche de GuardLatice. Le portail présente le programme scientifique ; cet espace GitHub contient actuellement les consignes de publication.
 
-Pour une question ou une collaboration, présente un sujet public dans Discussions. Pour une correction, indique le travail et le passage concernés. Aucun manuscrit, code de recherche ou fichier de publication n'est distribué ici.
+Pour une question ou une collaboration, présentez un sujet public dans [Research](https://github.com/GuardLatice/.github/discussions/new?category=research). Pour une correction, indique le travail et le passage concernés. Aucun manuscrit, code de recherche ou fichier de publication n'est distribué ici.
 
 </details>
 
